@@ -9,7 +9,7 @@
   },
   {
     "name": "成都",
-    "audio_url": "./audios/成都.mp3",
+    "audio_url": "/audios/成都.mp3",
     "singer": "赵雷",
     "album": "成都",
     "cover": "http://p2.music.126.net/34YW1QtKxJ_3YnX9ZzKhzw==/2946691234868155.jpg",
@@ -17,7 +17,7 @@
   },
   {
     "name": "南方姑娘",
-    "audio_url": "./audios/南方姑娘.mp3",
+    "audio_url": "/audios/南方姑娘.mp3",
     "singer": "赵雷",
     "album": "赵小雷",
     "cover": "http://p2.music.126.net/wldFtES1Cjnbqr5bjlqQbg==/18876415625841069.jpg",
